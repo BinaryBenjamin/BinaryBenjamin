@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BinaryBenjamin
 - 👀 I’m interested in software and game development, reading, & digital design.
-- 🌱 I’m currently studying for a Degree in Computer Science, Concentration in Web/Mobile Development & Software Engineering
+- 🌱 I’m currently studying for a Degree in Computer Science, Concentration in Cybersecurity
 - 📫 Be free to reach out to me on github.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm left handed
